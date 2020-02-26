@@ -36,9 +36,10 @@ print(my_fav_fruits[1:4])
 my_fav_fruits = ["mango", "kiwi", "banana", "blueberry", "orange"]
 my_fav_fruits.append('watermelon')
 print(my_fav_fruits)
-
+# adding more fruits to the list
 my_fav_fruits = ["mango", "kiwi", "banana"]
 my_fav_fruits.append('watermelon')
+my_fav_fruits.append('melon')
 new_fruit_list = my_fav_fruits
 print(new_fruit_list)
 
